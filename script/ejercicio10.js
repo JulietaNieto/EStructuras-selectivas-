@@ -1,0 +1,1 @@
+let codigo, vendidos, valor, descuento, total; 
